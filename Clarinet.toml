@@ -8,6 +8,10 @@ requirements = []
 path = "contracts/bitnest-token.clar"
 depends_on = []
 
+[contracts.property-registry]
+path = "contracts/property-registry.clar"
+depends_on = []
+
 [repl]
 costs_version = 2
 parser_version = 2
