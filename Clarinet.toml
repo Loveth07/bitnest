@@ -12,6 +12,10 @@ depends_on = []
 path = "contracts/property-registry.clar"
 depends_on = []
 
+[contracts.rental-agreement]
+path = "contracts/rental-agreement.clar"
+depends_on = []
+
 [repl]
 costs_version = 2
 parser_version = 2
